@@ -19,11 +19,13 @@ My name is Jordan Malheiros and I am a bachelor in Computer Science by UFMS and 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 ##### Data Visualization
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="30" height="30"/> </a>
+
+
 
 ##### Databases
 
@@ -35,24 +37,26 @@ My name is Jordan Malheiros and I am a bachelor in Computer Science by UFMS and 
 
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)
 
 
 ### 📝 Recent Projects
 
-#### Rossmann Sales Prediction - Regression
-Sales Forecasting algorithm for a drugstore chain called Rossman using regression adapted to Time Series. Python was used together with supervised Machine Learning techniques to predict the sales value of Rossman's stores in the next 6 weeks, in order to define a budget to carry out the renovation of the stores according to their sales value, making them more effective distribution of investment across the entire store network.
+#### High Value Customer Indetification - Clustering ( In Progress)
+This project has a goal to discovery similiarity people to join a membership program. The marketing team will launch a loyalty program for the best customers in the base, called Insiders. But the team does not have an advanced knowledge in data analysis to elect the participants of the program.
 
-https://github.com/malheiros7j/jbm-rossman-sales-predict
+https://github.com/malheiros7j/high-value-customers 
 
 #### Health Insurance Cross Sell - Classification
 Classification project with a Ranking to Learn approach for empersa Insurance All, whose objective is to offer its health plan customers a new product: car insurance. The main objective of our project is to classify the customers most likely to purchase this new product in order to optimize the effectiveness of the sales team, making contacts only with the customers most likely to purchase.
 
 https://github.com/malheiros7j/jbm-health-insurance-cross-sell
 
-#### High Value Customer Indetification - Clustering ( In Progress)
-This project has a goal to discovery similiarity people to join a membership program. The marketing team will launch a loyalty program for the best customers in the base, called Insiders. But the team does not have an advanced knowledge in data analysis to elect the participants of the program.
+#### Rossmann Sales Prediction - Regression
+Sales Forecasting algorithm for a drugstore chain called Rossman using regression adapted to Time Series. Python was used together with supervised Machine Learning techniques to predict the sales value of Rossman's stores in the next 6 weeks, in order to define a budget to carry out the renovation of the stores according to their sales value, making them more effective distribution of investment across the entire store network.
 
-https://github.com/malheiros7j/high-value-customers 
+https://github.com/malheiros7j/jbm-rossman-sales-predict
 
 #### House Rocket Business Analytics - Insights Project
 House Rocket Real Estate Analysis Project with identification of properties below the average sale price and definition of the ideal resale price from an exploratory analysis of data in Python.
