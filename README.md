@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋</h1>
 My name is Jordan Malheiros and I am a bachelor in Computer Science by UFMS and passionate by Data, Machine Learning and AI applications.
 
-- 🔭 I’m currently working on [Clusterization Problem that aims to group the most valuable customers for an E-Commerce company.](https://github.com/malheiros7j/high-value-customers)
+- 🔭 I’m currently working on Data Science Projects based on public datasets.
 
 - 🌱 I’m currently learning about Machine Learning, Statistics and Business. 
 
@@ -43,7 +43,7 @@ https://github.com/malheiros7j/jbm-health-insurance-cross-sell
 High Value Customer Indetification - Clustering ( In Progress)
 This project has a goal to discovery similiarity people to join a membership program. The marketing team will launch a loyalty program for the best customers in the base, called Insiders. But the team does not have an advanced knowledge in data analysis to elect the participants of the program.
 
-Repository: https://github.com/malheiros7j/high-value-customers 
+https://github.com/malheiros7j/high-value-customers 
 
 House Rocket Business Analytics - Insights Project
 House Rocket Real Estate Analysis Project with identification of properties below the average sale price and definition of the ideal resale price from an exploratory analysis of data in Python.
