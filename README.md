@@ -51,13 +51,50 @@ House Rocket Real Estate Analysis Project with identification of properties belo
 Link to Streamlit Project in Heroku: https://jbm-analytics-house-rocket.herokuapp.com/.
 
 
+<h3> 🤝🏻 &nbsp;Connect with Me </h3> 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jordan-malheiros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jordan-malheiros" height="30" width="40" /></a>
-<a href="https://kaggle.com/malheiros7j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="malheiros7j" height="30" width="40" /></a>
+<p align="center">
+<br>
+<a href="https://www.linkedin.com/in/jordan-malheiros/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:malheiros7j@gmail.com?subject=Hi%20Jordan"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a hrefhttps://www.kaggle.com/malheiros7j"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/> </a>&nbsp;
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=malheiros7j&show_icons=true&locale=en&layout=compact" alt="malheiros7j" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=malheiros7j&show_icons=true&locale=en" alt="malheiros7j" /></p>
+## My Statistics
+
+<br/>
+<p align="left">
+  <a href="https://github.com/malheiros7j">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=malheiros7j&show_icons=true&theme=nord&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=malheiros7j&theme=nord&hide_border=true" />
+  </a>
+</p>
+<br>
+
+
+------
+
+Credit: [abhigyantrips](https://github.com/abhigyantrips)
+
+Last Edited on: 24/12/2021
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
