@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋</h1>
-My name is Jordan Malheiros and I am a bachelor in Computer Science by UFMS and passionate by Data, Machine Learning and AI applications.
+My name is Jordan Malheiros and I am a bachelor in Computer Science and passionate by Data, Machine Learning and AI applications.
 
 - 🔭 I’m currently working on Data Science Projects based on public datasets.
 
