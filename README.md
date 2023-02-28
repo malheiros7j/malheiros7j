@@ -43,7 +43,7 @@ My name is Jordan Malheiros and I am a bachelor in Computer Science and passiona
 
 ### 📝 Recent Projects
 
-#### High Value Customer Indetification - Clustering ( In Progress)
+#### High Value Customer Indetification - Clustering .
 This project has a goal to discovery similiarity people to join a membership program. The marketing team will launch a loyalty program for the best customers in the base, called Insiders. But the team does not have an advanced knowledge in data analysis to elect the participants of the program.
 
 https://github.com/malheiros7j/jbm-high-value-customers-insiders
