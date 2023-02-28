@@ -7,7 +7,7 @@ My name is Jordan Malheiros and I am a bachelor in Computer Science and passiona
 
 - 👯 I’m looking to collaborate on Data Science Projects and developers.
 
-- 👨‍💻 All of my projects are available at [https://malheiros7j.github.io/portfolio_projetos/](https://malheiros7j.github.io/portfolio_projetos/)
+- 👨‍💻 All of my projects are available at [https://malheiros7j.github.io/portfolio_projetos/](https://malheiros7j.github.io/portfolio_projetos/) (To be updated)
 
 - 📫 How to reach me: malheiros7j@gmail.com
 
