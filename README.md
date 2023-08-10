@@ -1,18 +1,19 @@
-<h1 align="center">Hi there! 👋</h1>
-My name is Jordan Malheiros and I am a bachelor in Computer Science and passionate by Data, Machine Learning and AI applications.
+<h1 align="center">Hello there! 👋</h1>
 
-- 🔭 I’m currently working on Data Science Projects based on public datasets.
+I'm Jordan Malheiros, a Computer Science graduate with a strong passion for Data, Machine Learning, and AI applications.
 
-- 🌱 I’m currently learning about Machine Learning, Statistics and Business. 
+- 🔭 Currently, I'm engaged in Data Science projects using public datasets and working as a Freelancer on the Upwork Platform.
 
-- 👯 I’m looking to collaborate on Data Science Projects and developers.
+- 🌱 I'm actively learning about Machine Learning, Statistics, and Business strategies.
 
-- 👨‍💻 All of my projects are available at [https://malheiros7j.github.io/portfolio_projetos/](https://malheiros7j.github.io/portfolio_projetos/) (To be updated)
+- 👯 I'm eager to collaborate on Data Science projects and with fellow developers.
 
-- 📫 How to reach me: malheiros7j@gmail.com
+- 👨‍💻 You can explore all my projects on [GitHub](https://github.com/malheiros7j?tab=repositories).
+  
+- 📫 Feel free to reach out to me at malheiros7j@gmail.com.
 
-#### 🛠 Languages and Tools:
-##### Programming Language and Machine Learning
+### 🛠 Languages and Tools:
+##### Programming and Machine Learning
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -23,11 +24,9 @@ My name is Jordan Malheiros and I am a bachelor in Computer Science and passiona
 
 ##### Data Visualization
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="30" height="30"/> </a>
+![Seaborn](https://seaborn.pydata.org/_images/logo-mark-lightbg.svg)
 ![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=fff)
-
-
-
+![PowerBI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ##### Databases
 
@@ -46,67 +45,48 @@ My name is Jordan Malheiros and I am a bachelor in Computer Science and passiona
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
-
 ### 📝 Recent Projects
 
-#### High Value Customer Indetification - Clustering .
-This project has a goal to discovery similiarity people to join a membership program. The marketing team will launch a loyalty program for the best customers in the base, called Insiders. But the team does not have an advanced knowledge in data analysis to elect the participants of the program.
+#### PDF to Text | WebScraping Amazon Books - Selenium Automation and API Ingestion
+A project involving the conversion of PDF files to .txt format using PDFMiner Library, alongside web-crawling to extract information from Amazon's Best Sellers book pages.
 
-https://github.com/malheiros7j/jbm-high-value-customers-insiders
+#### Movie Genres Prediction - NLP and Multi-Label Classification
+Predicting movie genres through NLP techniques and clustering algorithms based on movie synopses.
+[Project Link](https://github.com/malheiros7j/jbm-nlp-genres-movie)
+
+#### Air System Truck Classifier - Classification
+Classifying air systems of trucks using data from the maintenance sector to reduce maintenance costs.
+[Project Link](https://github.com/malheiros7j/jbm-air-system-truck-classifier)
+
+#### High Value Customer Identification - Clustering
+Identifying potential members for a loyalty program through clustering and data analysis.
+[Project Link](https://github.com/malheiros7j/jbm-high-value-customers-insiders)
 
 #### Health Insurance Cross Sell - Classification
-Classification project with a Ranking to Learn approach for empersa Insurance All, whose objective is to offer its health plan customers a new product: car insurance. The main objective of our project is to classify the customers most likely to purchase this new product in order to optimize the effectiveness of the sales team, making contacts only with the customers most likely to purchase.
-
-https://github.com/malheiros7j/jbm-health-insurance-cross-sell
+Classifying customers most likely to purchase a new product to optimize sales effectiveness.
+[Project Link](https://github.com/malheiros7j/jbm-health-insurance-cross-sell)
 
 #### Rossmann Sales Prediction - Regression
-Sales Forecasting algorithm for a drugstore chain called Rossman using regression adapted to Time Series. Python was used together with supervised Machine Learning techniques to predict the sales value of Rossman's stores in the next 6 weeks, in order to define a budget to carry out the renovation of the stores according to their sales value, making them more effective distribution of investment across the entire store network.
-
-https://github.com/malheiros7j/jbm-rossman-sales-predict
+Forecasting sales using regression adapted to Time Series for Rossman drugstore chain.
+[Project Link](https://github.com/malheiros7j/jbm-rossman-sales-predict)
 
 #### House Rocket Business Analytics - Insights Project
-House Rocket Real Estate Analysis Project with identification of properties below the average sale price and definition of the ideal resale price from an exploratory analysis of data in Python.
+Analyzing real estate data to identify properties below average sale prices and determine ideal resale prices.
+[Streamlit Project](https://jbm-analytics-house-rocket.herokuapp.com/)
 
-Link to Streamlit Project in Heroku: https://jbm-analytics-house-rocket.herokuapp.com/.
-
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3> 
+### 🤝🏻 Connect with Me
 
 <p align="center">
-<br>
-<a href="https://www.linkedin.com/in/jordan-malheiros/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:malheiros7j@gmail.com?subject=Hi%20Jordan"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<a hrefhttps://www.kaggle.com/malheiros7j"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/> </a>&nbsp;
+  <a href="https://www.linkedin.com/in/jordan-malheiros/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="mailto:malheiros7j@gmail.com?subject=Hi%20Jordan"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+  <a href="https://www.kaggle.com/malheiros7j"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/> </a>&nbsp;
 </p>
 
+### My Statistics
 
-## My Statistics
-
-<br/>
 <p align="left">
   <a href="https://github.com/malheiros7j">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=malheiros7j&show_icons=true&theme=nord&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=malheiros7j&show_icons=true&theme=nord&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=malheiros7j&theme=nord&hide_border=true" />
   </a>
 </p>
-<br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
