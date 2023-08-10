@@ -24,9 +24,10 @@ I'm Jordan Malheiros, a Computer Science graduate with a strong passion for Data
 
 ##### Data Visualization
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://seaborn.pydata.org/_images/logo-mark-lightbg.svg)
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="30" height="30"/> </a>
 ![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=fff)
 ![PowerBI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
 
 ##### Databases
 
@@ -50,28 +51,37 @@ I'm Jordan Malheiros, a Computer Science graduate with a strong passion for Data
 #### PDF to Text | WebScraping Amazon Books - Selenium Automation and API Ingestion
 A project involving the conversion of PDF files to .txt format using PDFMiner Library, alongside web-crawling to extract information from Amazon's Best Sellers book pages.
 
+[Pdftotext_scrapingAmazon](https://github.com/malheiros7j/pdftext_scrap-amazon)
+
+
 #### Movie Genres Prediction - NLP and Multi-Label Classification
 Predicting movie genres through NLP techniques and clustering algorithms based on movie synopses.
-[Project Link](https://github.com/malheiros7j/jbm-nlp-genres-movie)
+
+[Genre_movie_pred](https://github.com/malheiros7j/jbm-nlp-genres-movie)
 
 #### Air System Truck Classifier - Classification
 Classifying air systems of trucks using data from the maintenance sector to reduce maintenance costs.
-[Project Link](https://github.com/malheiros7j/jbm-air-system-truck-classifier)
+
+[Air_system_classifier](https://github.com/malheiros7j/jbm-air-system-truck-classifier)
 
 #### High Value Customer Identification - Clustering
 Identifying potential members for a loyalty program through clustering and data analysis.
-[Project Link](https://github.com/malheiros7j/jbm-high-value-customers-insiders)
+
+[High_value_customers](https://github.com/malheiros7j/jbm-high-value-customers-insiders)
 
 #### Health Insurance Cross Sell - Classification
 Classifying customers most likely to purchase a new product to optimize sales effectiveness.
-[Project Link](https://github.com/malheiros7j/jbm-health-insurance-cross-sell)
+
+[Health_insurance_crossell](https://github.com/malheiros7j/jbm-health-insurance-cross-sell)
 
 #### Rossmann Sales Prediction - Regression
 Forecasting sales using regression adapted to Time Series for Rossman drugstore chain.
-[Project Link](https://github.com/malheiros7j/jbm-rossman-sales-predict)
+
+[Forecasting_sales](https://github.com/malheiros7j/jbm-rossman-sales-predict)
 
 #### House Rocket Business Analytics - Insights Project
 Analyzing real estate data to identify properties below average sale prices and determine ideal resale prices.
+
 [Streamlit Project](https://jbm-analytics-house-rocket.herokuapp.com/)
 
 ### 🤝🏻 Connect with Me
